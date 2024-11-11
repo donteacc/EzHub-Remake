@@ -12,6 +12,11 @@
     "Universal GUI": {
         "link": "https://github.com/donteacc/EzHub-Remake/blob/main/Exclusives-V1/Universal%20Premium.lua",
         "info": "No info is currently available on the following script",
+        "type": "normal"    
+    },
+    "Fisch": {
+        "link": "https://github.com/donteacc/EzHub-Remake/blob/main/Exclusives-V1/Fisch.lua",
+        "info": "No info is currently available on the following script",
         "type": "normal"
     },
     "Redwood Prison GUI": {
